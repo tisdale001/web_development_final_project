@@ -1,0 +1,21 @@
+.wd-profile-pic-format-follow {
+    width: 50px;
+    height: 50px;
+}
+.wd-check-circle-icon-format-follow {
+    width: 15px;
+}
+.wd-calendar-icon-format-follow {
+    width: 15px;
+}
+.wd-float-start-follow {
+    justify-content: left;
+    justify-self: left;
+}
+.fs-1rem {
+    font-size: 1rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

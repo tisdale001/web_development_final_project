@@ -1,0 +1,64 @@
+.wd-profile-pic-format {
+    width: 45px;
+    height: 45px;
+}
+
+
+@media screen and (max-width: 575px){
+    .wd-create-review-pfp {
+        width: 75px;
+        height: 75px;
+    }
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 991px){
+    .wd-create-review-pfp {
+        width: 75px;
+        height: 75px;
+    }
+}
+
+@media screen and (min-width: 992px){
+.wd-create-review-pfp {
+    width: 100px;
+    height: 100px;
+}
+}
+
+.wd-margin-body {
+    left: 55px;
+}
+.wd-profile-icon-format {
+    width: 45px;
+}
+.wd-review-check-format {
+    width: 30px;
+}
+.wd-thumbs-up-five-star-format {
+    width: 45px;
+}
+.wd-min-width-100 {
+    min-width: 100%;
+}
+.wd-gold-star-format {
+    width: 21px;
+}
+.wd-nowrap {
+    white-space: nowrap;
+}
+.wd-thumb-format {
+    width: 100px;
+}
+.wd-profile-pic-large-format {
+    width: 60px;
+}
+.wd-big-x-format {
+    width: 25px;
+}
+.word-break-all {
+    word-break: break-all;
+}
+.cursor-pointer {
+    cursor: pointer;
+}

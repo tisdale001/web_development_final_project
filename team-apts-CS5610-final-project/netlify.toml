@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
+
+[context.dev.environment]
+    REACT_APP_APTS_API_BASE = "https://apts-server-backend.herokuapp.com/"

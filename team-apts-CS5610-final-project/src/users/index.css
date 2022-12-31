@@ -1,0 +1,19 @@
+.wd-profile-pic-format {
+    width: 100px;
+    height: 100px;
+}
+.wd-check-circle-icon-format {
+    width: 15px;
+}
+.wd-calendar-icon-format {
+    width: 18px;
+    height: 18px;
+}
+
+.rm-border-bottom{
+    border-bottom: 0px !important;
+    /* border-top: 0px !important; */
+}
+.wd-border-grey {
+    border: 1px solid #2f3336;
+}

@@ -1,0 +1,50 @@
+.wd-border-light-gray {
+    border: rgb(27, 27, 27);
+}
+.wd-orange-button {
+    background-color: #fd7e14;
+}
+#save-prof-1:hover {
+    color: #0c63e4 !important;
+}
+#save-prof-2:hover {
+    color: #0c63e4 !important;
+}
+.wd-x-image-format {
+    height: 25px;
+}
+.wd-profile-avatar-format {
+    width: 150px;
+    height: 150px;
+}
+.wd-profile-avatar-margins {
+    bottom: -85px;
+    left: 45px;
+}
+.wd-leave-extra-space-below-avatar {
+    margin-top: 95px;
+}
+.wd-banner-format {
+    object-fit: cover;
+    height: 300px;
+}
+.wd-camera-img-format {
+    width: 50px;
+    opacity: 50%;
+}
+.wd-center-banner {
+    top: 45%;
+    left: 45%;
+}
+.wd-center-avatar {
+    top: 35%;
+    left: 35%;
+}
+.wd-horizontal-scroll {
+    overflow-y: scroll;
+    height: 96vh;
+    overflow-x: clip;
+}
+.wd-margin-center {
+    justify-content: center;
+}

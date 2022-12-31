@@ -1,0 +1,39 @@
+.wd-text-margins-profile {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.wd-banner-pic-format-profile {
+    object-fit: cover;
+    height: 300px;
+}
+.wd-ep-button-format {
+    background-color: #fd7e14;
+}
+
+#edit-profile-btn:hover {
+    color: #0c63e4 !important;
+}
+
+.wd-profile-pic-format-profile {
+    width: 150px;
+    height: 150px;
+}
+.wd-profile-pic-margins-profile {
+    bottom: -85px;
+    left: 45px;
+}
+.wd-leave-extra-space-below-avatar-profile {
+    margin-top: 105px;
+}
+.wd-map-vector-icon-format-profile {
+    width: 15px;
+    height: 15px;
+}
+.wd-cake-icon-format-profile {
+    width: 20px;
+    height: 20px;
+}
+.wd-calendar-icon-format-profile {
+    width: 18px;
+    height: 18px;
+}
